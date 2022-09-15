@@ -1,5 +1,7 @@
 # Instruccions
 
+Fes git clone de la URL https://github.com/maria-canals/pokemon-API-test
+Fes `npm install` per instal·lar les dependències.
 Per iniciar el programa, corre el command `npm start`
 Per iniciar els tests, corre el command `npm run test`
 
