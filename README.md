@@ -8,5 +8,6 @@ Per iniciar els tests, corre el command `npm run test`
 La pàgina principal, carrega els diversos components. Es mostren dos botons per poder escollir la vista:
 Llistat o graella.
 Cada carta, printa el nom del pokemon, i té un botó que quan fas click, apareix la foto del pokemon, "els detalls. Pots tornar a fer click al botó per ocultar els detalls.
-A la part inferior, hi ha la paginació.
+A la part inferior, hi ha la paginació.¨
+Él projecte és responsive, mobile first design.
 Per l'estil he fet servir Boostrap, i pels test Jest.

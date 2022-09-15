@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Card } from './Card';
 
 export const CardList = ({ data, viewType }) => {
@@ -7,6 +7,7 @@ export const CardList = ({ data, viewType }) => {
 			<div className={viewType == 'list' ? 'list-container' : 'grid-container'}>
 				{data?.map(pokemon => (
 					<Card
+						id={pokemon.id}
 						viewType={viewType}
 						key={pokemon.name}
 						name={pokemon.name}
