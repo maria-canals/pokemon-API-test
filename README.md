@@ -1,9 +1,9 @@
 # Instruccions
 
-1.Fes git clone de la URL https://github.com/maria-canals/pokemon-API-test
-2.Fes `npm install` per instal·lar les dependències.
-3.Per iniciar el programa, corre el command `npm start`
-4.Per iniciar els tests, corre el command `npm run test`
+1. Fes git clone de la URL https://github.com/maria-canals/pokemon-API-test
+2. Fes `npm install` per instal·lar les dependències.
+3. Per iniciar el programa, corre el command `npm start`
+4. Per iniciar els tests, corre el command `npm run test`
 
 ## Descripció del projecte
 
